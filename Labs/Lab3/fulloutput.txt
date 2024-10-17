@@ -1,0 +1,141 @@
+C:\Users\rdcox\Documents\Data Structures\Labs\Lab3>java HuffmanCoding
+Huffman Tree in Preorder:
+Internal Node (Freq: 413)
+Internal Node (Freq: 169)
+Internal Node (Freq: 80)
+Internal Node (Freq: 39)
+M: 19
+L: 20
+Internal Node (Freq: 41)
+Internal Node (Freq: 20)
+K: 10
+Internal Node (Freq: 10)
+J: 5
+V: 5
+W: 21
+Internal Node (Freq: 89)
+E: 42
+Internal Node (Freq: 47)
+Internal Node (Freq: 23)
+D: 11
+F: 12
+N: 24
+Internal Node (Freq: 244)
+Internal Node (Freq: 106)
+Internal Node (Freq: 50)
+R: 25
+T: 25
+Internal Node (Freq: 56)
+Internal Node (Freq: 27)
+P: 13
+G: 14
+Internal Node (Freq: 29)
+Internal Node (Freq: 14)
+Internal Node (Freq: 6)
+Z: 3
+Internal Node (Freq: 3)
+Q: 1
+X: 2
+Y: 8
+U: 15
+Internal Node (Freq: 138)
+Internal Node (Freq: 66)
+Internal Node (Freq: 32)
+B: 16
+I: 16
+Internal Node (Freq: 34)
+C: 17
+H: 17
+Internal Node (Freq: 72)
+S: 35
+Internal Node (Freq: 37)
+O: 18
+A: 19
+
+Huffman Codes:
+A = 11111
+B = 11000
+C = 11010
+D = 01100
+E = 010
+F = 01101
+G = 10101
+H = 11011
+I = 11001
+J = 001010
+K = 00100
+L = 0001
+M = 0000
+N = 0111
+O = 11110
+P = 10100
+Q = 10110010
+R = 1000
+S = 1110
+T = 1001
+U = 10111
+V = 001011
+W = 0011
+X = 10110011
+Y = 101101
+Z = 1011000
+
+Clear Text Read from File:
+Sally sells seashells by the seashore.
+Peter Piper picked a peck of pickled peppers a peck of pickled peppers Peter Piper picked.
+Houston, the Eagle has landed.
+Is that your final answer?
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping: .
+Character not in frequency table, skipping:
+
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping: .
+Character not in frequency table, skipping:
+
+Character not in frequency table, skipping: ,
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping: .
+Character not in frequency table, skipping:
+
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping:
+Character not in frequency table, skipping: ?
+
+Encoded Text (Debug): 1110111110001000110110111100100001000111101110010111111110110110100001000111101100010110110011101101011100101111111101101111110100001010100010100101010001010011001101000101000101001100111010001000100110011111101000101101000100111100110110100110011101000100000101001100101000101010010100010100011101111110100010110100010011110011011010011001110100010000010100110010100010101001010001010001110101000101001010100010100110011010001010001010011001110100010001001100110111111010111111010011111001111001110110100101111110101000101011011111111110000111111011101100010011001100111101001110111111110011011011111010111100001101110010111111110001111110111111000110101000
+
+Encoded Text: 1110111110001000110110111100100001000111101110010111111110110110100001000111101100010110110011101101011100101111111101101111110100001010100010100101010001010011001101000101000101001100111010001000100110011111101000101101000100111100110110100110011101000100000101001100101000101010010100010100011101111110100010110100010011110011011010011001110100010000010100110010100010101001010001010001110101000101001010100010100110011010001010001010011001110100010001001100110111111010111111010011111001111001110110100101111110101000101011011111111110000111111011101100010011001100111101001110111111110011011011111010111100001101110010111111110001111110111111000110101000
+
+Decoded Text (Debug): EIEIOH
+Decoded Text: EIEIOH
+
+Decoded Text (Debug): ZEPHYRQZULU
+Decoded Text: ZEPHYRQZULU
+
+Decoded Text (Debug): ABRACADABRAMERLIN
+Decoded Text: ABRACADABRAMERLIN
+
+C:\Users\rdcox\Documents\Data Structures\Labs\Lab3>

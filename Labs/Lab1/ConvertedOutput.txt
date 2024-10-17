@@ -1,0 +1,11 @@
+AB+C-
+ABC+-
+AB-C+DEF-+$
+ABCDE-+$*EF*-
+ABC+*CBA-+*
+Error: Invalid Prefix Expression
+Error: Invalid Prefix Expression
+Error: Invalid Prefix Expression
+ABC+$CBA-+*
+Error: Invalid Character in Expression: 0
+Error: Invalid Character in Expression: ^
